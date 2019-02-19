@@ -299,3 +299,34 @@ textarea {
 .navbar-default .navbar-nav > li > a:hover {
     color: #FF6760;
 }
+
+.bannersection {
+    background: #2A2A2A;
+    padding: 30px 0;
+}
+
+.banner {
+    padding: 45px;
+}
+
+.banner h2 {
+    font-family: Lato;
+    color: #D9D9D9;
+    font-size: 50px;
+}
+
+.banner p {
+    font-family: Lato;
+    font-size: 35px;
+    color: #D9D9D9;
+}
+
+.mybutton {
+    font-size: 14px;
+    font-family: Lato;
+    text-transform: uppercase;
+    color: #D9D9D9;
+    background: #FF6760;
+    padding: 10px 20px;
+    margin-top: 45px;
+}
